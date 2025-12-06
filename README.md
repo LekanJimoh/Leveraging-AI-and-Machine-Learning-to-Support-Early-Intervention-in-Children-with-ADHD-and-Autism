@@ -52,6 +52,33 @@ The goal is to identify latent neurodevelopmental subgroups that may correspond 
 
 ---
 
-## 📂 Repository Structure
 
-# Leveraging-AI-and-Machine-Learning-to-Support-Early-Intervention-in-Children-with-ADHD-and-Autism
+---
+
+## ⚖️ Ethical and Sociotechnical Considerations
+
+This research emphasizes responsible AI in healthcare:
+- **Ethical AI use:** ensuring fairness, transparency, and privacy in child health data.
+- **Equity in access:** preventing biases in AI models that could worsen healthcare disparities.
+- **Interpretability:** balancing algorithmic accuracy with clinical understanding.
+
+---
+
+## 📊 Key Findings (Summary)
+
+- Identified **three primary neurodevelopmental clusters** consistent with below-average, typical, and above-average brain maturation.
+- Detected **26 neuroanatomical outliers** using DBSCAN, indicating atypical development.
+- Confirmed **strong correlations** between gray and white matter volumes and **inverse relationships** between FA and MD, supporting biological validity.
+
+---
+
+## 🏁 Conclusion
+
+Unsupervised machine learning models can effectively uncover meaningful variability in pediatric brain development.  
+These models, if ethically deployed, could aid clinicians in **early identification** and **personalized interventions** for children with neurodevelopmental disorders.
+
+## 🧾 License
+
+© 2025 Jimoh Olamilekan.  
+This work is shared for educational and research purposes. Please credit the author appropriately if reused or referenced.
+
